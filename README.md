@@ -4,7 +4,7 @@
 
 This project focuses on applying classical time series forecasting models such as ARIMA, SARIMAX, and Auto ARIMA to analyze temporal patterns and generate accurate predictions. It covers the end-to-end pipeline — from data preprocessing and exploratory analysis to model development and evaluation — providing actionable insights into trends and seasonality.
 
-🛠️ Tech Stack
+🛠️ ## Tech Stack
 
 🐍 Python — Core programming language for modeling and analysis
 
@@ -32,11 +32,11 @@ This project focuses on applying classical time series forecasting models such a
 
 📈 Model Evaluation: Compared models with MAE, MSE, and RMSE to select the best-performing approach.
 
-💡 Impact
+💡 ##Impact
 
 Delivered a systematic framework for time series analysis and forecasting, enabling better understanding of trends and seasonality.
 Equipped stakeholders with accurate forecasts to support planning, decision-making, and resource optimization.
 
-🏁 Final Thoughts
+🏁 ##Final Thoughts
 
 This project reflects my expertise in applying statistical modeling techniques to real-world forecasting problems. By integrating preprocessing, exploratory analysis, and model evaluation, I have built a robust and reusable pipeline for time series forecasting.
